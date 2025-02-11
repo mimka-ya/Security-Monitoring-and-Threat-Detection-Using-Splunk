@@ -44,4 +44,4 @@ You can view the full project presentation on Google Drive here:
 
 For a in-depth analysis of system activity and security events, including suspicious behavior and potential vulnerabilities, please review the detailed findings in the document available on Google Drive:
 
-[View Log Analysis](https://docs.google.com/document/d/1oIVVlALTcOxZIryWWDuWNsU8Bh-SsbwqBXC_nJ3QSjY/edit?tab=t.0)
+[View Log Analysis](https://drive.google.com/file/d/1d1lvceeyoggBVq9YA0YDpMQ31BNvgXFG/view?usp=sharing)
