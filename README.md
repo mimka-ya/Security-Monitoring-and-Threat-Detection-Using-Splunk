@@ -38,7 +38,7 @@ This project aimed to create a robust security monitoring environment for a fict
 
 You can view the full project presentation on Google Drive here:
 
-[View Presentation](https://docs.google.com/presentation/d/1-7Z_2JT2iIwdQAW4ESyzvhLEmIEFKNPDv64Ei3Km8fk/edit?usp=sharing)
+[View Presentation](https://drive.google.com/file/d/10RVEElGdY7A9knnAoGkXt_128yRkpeTD/view?usp=sharing)
 
 ## Log Analysis 
 
