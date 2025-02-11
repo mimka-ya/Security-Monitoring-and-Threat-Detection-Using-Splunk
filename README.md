@@ -12,7 +12,6 @@ This project aimed to create a robust security monitoring environment for a fict
 ## Key Findings:
 
 ### Windows Logs Suspicious Activity:
-  -
   -  **Severity Escalation**: A significant increase in incident severity, with events rising from 329 to 1111.
   -  **Failed Logins**: A spike in failed login attempts on 3/25/2020 promped to an adjustment of alert thresholds.
   -  **Unusual Successful Logins**: Notably abnormal login activity from 'User_j,' who logged in 194 times within an hour, raising red flags.
